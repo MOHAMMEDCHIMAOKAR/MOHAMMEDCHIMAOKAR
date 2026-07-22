@@ -1,25 +1,121 @@
+<h1 align="center">Hi 👋, I'm Mohammed Chimaokar</h1>
+<h3 align="center">Cybersecurity Enthusiast | MCA Student | Python Developer | SOC & Blue Team Aspirant</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammedchimaokar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-chimaokar-819470319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedchimaokar@hotmail.com) 
+<p align="center">
+  <a href="https://github.com/MOHAMMEDCHIMAOKAR">
+    <img src="https://komarev.com/ghpvc/?username=MOHAMMEDCHIMAOKAR&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://instagram.com/mohammedchimaokar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mohammed-chimaokar-819470319">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammedchimaokar@hotmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,js,html,react,nodejs,angular,mongodb,mysql,firebase,docker,git,github,linux,gcp,vscode,figma&perline=8"/>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMEDCHIMAOKAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDCHIMAOKAR&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img
+src="https://github-stats-extended.vercel.app/api?username=MOHAMMEDCHIMAOKAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+height="170"/>
+
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=MOHAMMEDCHIMAOKAR&layout=compact&theme=tokyonight&hide_border=true"
+height="170"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MOHAMMEDCHIMAOKAR&theme=tokyonight&hide_border=true"/>
+
+<img
+src="https://streak-stats.demolab.com?user=MOHAMMEDCHIMAOKAR&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMEDCHIMAOKAR&theme=tokyo-night"/>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MOHAMMEDCHIMAOKAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MOHAMMEDCHIMAOKAR&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</p>
+
+---
+
+
+
+---
+
+# ✍ Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MOHAMMEDCHIMAOKAR/MOHAMMEDCHIMAOKAR/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📫 Visitor Counter
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=MOHAMMEDCHIMAOKAR&icon=5&color=12"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
