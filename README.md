@@ -7,23 +7,7 @@
 # 📊 GitHub Stats
 
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMEDCHIMAOKAR&theme=tokyo-night"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MOHAMMEDCHIMAOKAR&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MOHAMMEDCHIMAOKAR&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MOHAMMEDCHIMAOKAR&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=MOHAMMEDCHIMAOKAR&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
