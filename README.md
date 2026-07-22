@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMEDCHIMAOKAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDCHIMAOKAR&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
