@@ -7,7 +7,7 @@
 # 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MOHAMMEDCHIMAOKAR&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=MOHAMMEDCHIMAOKAR&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MOHAMMEDCHIMAOKAR&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MOHAMMEDCHIMAOKAR&langs_count=6&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MOHAMMEDCHIMAOKAR&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MOHAMMEDCHIMAOKAR&layout=compact&langs_count=4&theme=dark)
 
 
 ### ✍️ Dev Quote
