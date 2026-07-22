@@ -9,6 +9,8 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MOHAMMEDCHIMAOKAR&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MOHAMMEDCHIMAOKAR&layout=compact&langs_count=4&theme=dark)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=5&display_format=percent&theme=dark)](https://wakatime.com/@alan)
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
