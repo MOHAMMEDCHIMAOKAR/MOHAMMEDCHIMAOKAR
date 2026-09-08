@@ -1,33 +1,102 @@
+# Hi, I'm Mohammed Chimaokar 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammedchimaokar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-chimaokar-819470319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedchimaokar@hotmail.com) 
+### MCA Student | Cybersecurity Developer | Python Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats
+I build practical software projects focused on **cybersecurity, threat detection, security intelligence, and web applications**.
 
-<p align="center">
-
-<img height="170"
-src="https://github-stats-extended.vercel.app/api?username=MOHAMMEDCHIMAOKAR&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-<img height="170"
-src="https://github-stats-extended.vercel.app/api/top-langs?username=MOHAMMEDCHIMAOKAR&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=MOHAMMEDCHIMAOKAR&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy turning cybersecurity concepts into working, documented projects with a focus on **security, maintainability, and real-world usability**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MOHAMMEDCHIMAOKAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔐 Featured Projects
+
+### 🚨 DDoS Detection System
+
+A web-based DoS/DDoS detection dashboard built for safe, controlled experimentation with **simulated network traffic**.
+
+**Highlights:**
+- Real-time traffic monitoring
+- DDoS and SYN-flood detection
+- Severity-based security alerts
+- Traffic-rate visualization
+- FastAPI backend
+- Interactive web dashboard
+
+> Educational project — traffic is simulated and the system is not designed to attack real external systems.
+
+**Tech:** Python · FastAPI · JavaScript · HTML/CSS · Chart.js
+
+---
+
+### 🌐 CyberIntel
+
+A centralized **cybersecurity news intelligence dashboard** that aggregates security news from trusted RSS sources.
+
+**Highlights:**
+- Multi-source cybersecurity news aggregation
+- Supabase PostgreSQL storage
+- Search and article categorization
+- Article image discovery and validation
+- SSRF-resistant outbound requests
+- Rate limiting and refresh locking
+- Security headers
+- Server-side secrets
+
+**Tech:** Python · Flask · PostgreSQL · Supabase · JavaScript · HTML/CSS
+
+---
+
+## 🛡️ Cybersecurity
+
+- Network Security
+- DoS / DDoS Detection
+- Threat Intelligence
+- Security Monitoring
+- Secure Web Application Development
+- Security-focused Machine Learning
+
+---
+
+## 🛠️ Technologies
+
+### Programming
+Python · JavaScript · C · SQL
+
+### Web & Backend
+Flask · FastAPI · REST APIs · HTML5 · CSS3 · React
+
+### Data & Machine Learning
+Pandas · NumPy · Matplotlib · Machine Learning
+
+### Tools & Platforms
+Git · GitHub · Docker · Linux · Windows · Supabase
+
+---
+
+## 📚 Currently Working On
+
+- Cybersecurity detection and monitoring systems
+- Threat intelligence tools
+- Security-focused machine learning
+- Python backend applications
+- Secure web applications
+- Improving software testing and documentation
+
+---
+
+## 📈 GitHub
+
+I use GitHub to document my projects, experiments, and learning journey in software development and cybersecurity.
+
+---
+
+## 🤝 Let's Connect
+
+💼 [LinkedIn](https://linkedin.com/in/mohammed-chimaokar-819470319)
+
+
+---
+
+### ⚡ Building. Learning. Securing.
+
+> **Focused on building practical cybersecurity projects and continuously improving as a developer.**
